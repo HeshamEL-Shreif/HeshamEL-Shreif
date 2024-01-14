@@ -43,7 +43,7 @@ ____
 -----
 <h2>👀 Stars </h2>
 
-<img width=100% height=auto src="https://github-readme-streak-stats.herokuapp.com/?user=HeshamEL-Shreif" alt="mystreak"/>
+<img width=100% height=auto src="https://github-readme-streak-stats.herokuapp.com/?user=HeshamEL-Shreif&theme=transparent" alt="mystreak"/>
 
 
 -------
