@@ -36,6 +36,7 @@ ____
     <li>Numpy
     <li>Keras
     <li>Matplotlib
+    <li>Ultralitics
     <li>OpenAi
 </ul>
 
