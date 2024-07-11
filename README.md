@@ -12,7 +12,8 @@
 <h2>💻 I'm  currently Learning </h2>
 <ul>
     <li>Generative AI
-    <li>Transformers 
+     <li>Transformers
+     <li>Large Language Models 
     <li> Deep Reinforcement Learning 
 </ul>
 
