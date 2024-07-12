@@ -14,9 +14,11 @@
     <li>Generative AI
      <li>Transformers
      <li>Large Language Models 
-    <li> Deep Reinforcement Learning
-    <li> spacy 
-     <li> Hugging Face 
+    <li>Deep Reinforcement Learning
+    <li>spacy 
+     <li>Hugging Face 
+     <li>NLTK </li>
+     <li>Web Scraping </li>
             
 </ul>
 
