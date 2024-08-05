@@ -27,7 +27,7 @@
 6. **Hands-on Machine Learning**
 7. **Introduction to Machine Learning with Python**
 8. **Python for Data Analysis**
-9. **Mathematics for Machine Learning** I
+9. **Mathematics for Machine Learning** 
   ------
 
 <h2>🧑🏻‍💻 Programing language </h2>
