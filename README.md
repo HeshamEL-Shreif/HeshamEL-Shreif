@@ -4,7 +4,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HeshamEL-Shreif.HeshamEL-Shreif) <img src="https://komarev.com/ghpvc/?username=HeshamEL-Shreif&color=brightgreen" alt="watching_count" /> <img alt="followers" height=20 title="Follow me on Github" src="https://img.shields.io/github/followers/HeshamEL-Shreif?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> 
 
-<d>I'm Hesham El-Sherif experienced computer engineer specializing in Machine Learning and deep learning. Proficient in TensorFlow, Hugging Face, PyTorch, Numpy, OpenCV, and Matplotlib. My GitHub showcases a diverse range of projects, from innovative deep learning models to practical applications in computer vision and natural language processing. Strong focus on clean code, documentation, and reproducibility. </d>
+<d>I'm Hesham El-Sherif experienced computer engineer specializing in Machine Learning and deep learning. Proficient in TensorFlow, Hugging Face, PyTorch, Numpy, OpenCV, and Matplotlib. My GitHub showcases a diverse range of projects, from innovative deep learning models to practical applications in computer vision, natural language processing, Transformers and Large Language Models. Strong focus on clean code, documentation, and reproducibility. </d>
 
 
 
@@ -18,6 +18,18 @@
 </ul>
 
 ----
+## Books I've Read 📚
+1. **Practical Natural Language Processing** 
+2. **Natural Language Processing with Transformers**
+3. **Speech and Language Processing**
+4. **Real World Natural Language Processing**
+5. **Deep Learning with Pytorch**
+6. **Hands-on Machine Learning**
+7. **Introduction to Machine Learning with Python**
+8. **Python for Data Analysis**
+9. **Mathematics for Machine Learning** I
+  ------
+
 <h2>🧑🏻‍💻 Programing language </h2>
 <ul>
     <li>Python
