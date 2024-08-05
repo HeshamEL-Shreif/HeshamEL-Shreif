@@ -10,14 +10,14 @@
 
 ----------------
 <h2>💻 I'm  currently Learning </h2>
-<ul>
+<ol>
     <li>Generative AI
     <li>Deep Reinforcement Learning
      <li>Web Scraping </li>
      <li>AI on AWS</li>
      <li>Flusk</li>
             
-</ul>
+</ol>
 
 ----
 ## 📚 Books I've Read 
@@ -33,18 +33,18 @@
   ------
 
 <h2>🧑🏻‍💻 Programing language </h2>
-<ul>
+<ol>
     <li>Python
     <li>kotlin
     <li>C/C++
     <li>Java
     <li>HTML/CSS
     <li>PHP
-</ul>
+</ol>
 
 ____
 <h2>🤖 Libraries</h2>
-<ul>
+<ol>
     <li>Tensorflow
     <li>Pytorch
     <li>OpenCV
@@ -54,7 +54,7 @@ ____
     <li>Ultralitics
     <li>OpenAI
       <li> Hugging Face 
-</ul>
+</ol>
 
 -----
 <h2>👀 Stars </h2>
