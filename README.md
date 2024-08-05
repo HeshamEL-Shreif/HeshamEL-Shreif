@@ -18,7 +18,7 @@
 </ul>
 
 ----
-## Books I've Read 📚
+## 📚 Books I've Read 
 1. **Practical Natural Language Processing** 
 2. **Natural Language Processing with Transformers**
 3. **Speech and Language Processing**
