@@ -14,6 +14,8 @@
     <li>Generative AI
     <li>Deep Reinforcement Learning
      <li>Web Scraping </li>
+     <li>AI on AWS</li>
+     <li>Flusk</li>
             
 </ul>
 
