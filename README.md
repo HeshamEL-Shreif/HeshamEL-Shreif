@@ -11,11 +11,8 @@
 ----------------
 <h2>💻 I'm  currently Learning </h2>
 <ol>
-    <li>Generative AI
     <li>Deep Reinforcement Learning
-     <li>Web Scraping </li>
      <li>AI on AWS</li>
-     <li>Flusk</li>
             
 </ol>
 
@@ -52,8 +49,8 @@ ____
     <li>Keras
     <li>Matplotlib
     <li>Ultralitics
-    <li>OpenAI
-      <li> Hugging Face 
+    <li>HuggingFace
+    <li>NLTK</li>
 </ol>
 
 -----
