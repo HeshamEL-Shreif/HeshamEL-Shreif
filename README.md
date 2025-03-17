@@ -48,7 +48,6 @@ ____
     <li>Numpy
     <li>Keras
     <li>Matplotlib
-    <li>Ultralitics
     <li>HuggingFace
     <li>NLTK</li>
 </ol>
