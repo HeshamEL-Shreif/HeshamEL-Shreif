@@ -11,7 +11,6 @@
 <h2>💻 I'm  currently Learning </h2>
 <ol>
     <li>Deep Reinforcement Learning
-     <li>AI on AWS</li>
             
 </ol>
 
