@@ -16,15 +16,16 @@
 
 ----
 ## 📚 Books I've Read 
-1. **Practical Natural Language Processing** 
-2. **Natural Language Processing with Transformers**
-3. **Speech and Language Processing**
-4. **Real World Natural Language Processing**
-5. **Deep Learning with Pytorch**
-6. **Hands-on Machine Learning**
-7. **Introduction to Machine Learning with Python**
-8. **Python for Data Analysis**
-9. **Mathematics for Machine Learning** 
+1. **Large Language Models A Deep Dive**
+2. **Practical Natural Language Processing** 
+3. **Natural Language Processing with Transformers**
+4. **Speech and Language Processing**
+5. **Real World Natural Language Processing**
+6. **Deep Learning with Pytorch**
+7. **Hands-on Machine Learning**
+8. **Introduction to Machine Learning with Python**
+9. **Python for Data Analysis**
+10. **Mathematics for Machine Learning** 
   ------
 
 <h2>🧑🏻‍💻 Programing language </h2>
@@ -48,6 +49,8 @@ ____
     <li>Matplotlib
     <li>HuggingFace
     <li>NLTK</li>
+    <li>Plotly</li>
+    <li>Dash</li>
 </ol>
 
 -----
