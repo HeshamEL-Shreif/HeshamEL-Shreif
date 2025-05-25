@@ -51,6 +51,8 @@ ____
     <li>NLTK</li>
     <li>Plotly</li>
     <li>Dash</li>
+    <li>LangChain</li>
+    <li>LangGraph</li>
 </ol>
 
 -----
